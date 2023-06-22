@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for a Tic Tac Toe game built with React.js:
-
 # Tic Tac Toe Game
 
 This is a simple Tic Tac Toe game built using React.js. It allows two players to take turns and play the game on a 3x3 grid. The game also includes a win condition detection, which announces the winner or a draw.
@@ -11,7 +9,7 @@ To run this game on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/IPH-Technologies-Pvt-Ltd/Tic-Tac-Toe-ReactJs.git
    ```
 
 2. Navigate to the project directory:
